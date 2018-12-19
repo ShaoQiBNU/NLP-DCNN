@@ -1,2 +1,2 @@
-# NLP-DCNN
-DCNN解读
+NLP-DCNN
+========
